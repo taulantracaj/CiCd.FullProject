@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/CiCd.FullProject/v15
+/.vs
+/CiCd.FullProject.Web/bin
+/CiCd.FullProject.Web/obj/Debug
+/CiCd.FullProject.WebDatabase/Import Schema Logs
+/packages
+/CiCd.FullProject.ARM/obj/Debug
+/CiCd.FullProject.ARM/bin/Debug/staging/CiCd.FullProject.ARM
+/CiCd.FullProject.WebDatabase/bin/Debug
+/CiCd.FullProject.WebDatabase/obj/Debug
